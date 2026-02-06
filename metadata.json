@@ -1,0 +1,8 @@
+{
+  "name": "Our Media - Kids Social Space",
+  "description": "A vibrant, safe, and engaging social media platform for kids with content sharing, polls, script writing, and monetization features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
